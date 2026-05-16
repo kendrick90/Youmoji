@@ -42,3 +42,6 @@ __pycache__/
 
 # Large YOLO component (~1.2 GB) — see README for download
 yolo_1_0.tox
+
+# Face capture library — privacy + can grow large
+library/
